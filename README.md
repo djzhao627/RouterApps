@@ -11,11 +11,16 @@ RouterApps(iOS/Android/PC)
 
 - Shadowrocket-2.1.10
 
-
 ### Android
 
-empty here
+- shadowsocks-android-4.6.5.apk
 
-### PC
+### Windows
 
-empty here
+- Shadowsocks-4.1.6
+
+### Mac
+
+- ShadowsocksX-NG.app.1.8.2
+
+

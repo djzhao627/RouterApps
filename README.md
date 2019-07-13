@@ -17,7 +17,7 @@ RouterApps(iOS/Android/Windows/Mac)
 
 ### Windows
 
-- [Shadowsocks-4.1.6.zip](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Windows/Shadowsocks-4.1.6.zip)
+- [ShadowsocksR-win-4.9.2.zip](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Windows/ShadowsocksR-win-4.9.2.zip)
 
 ### Mac
 

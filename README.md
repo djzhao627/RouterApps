@@ -21,6 +21,6 @@ RouterApps(iOS/Android/Windows/Mac)
 
 ### Mac
 
-- [ShadowsocksX-NG-1.4.1-R8 (4).dmg](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Mac/ShadowsocksX-NG-1.4.1-R8 (4).dmg)
+- [ShadowsocksX-NG-1.4.1-R8 (4).dmg](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Mac/ShadowsocksX-NG-1.4.1-R8-4.dmg)
 
 

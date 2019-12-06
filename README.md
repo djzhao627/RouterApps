@@ -9,11 +9,11 @@ RouterApps(iOS/Android/Windows/Mac)
 
 ### iOS
 
-- [Shadowrocket-2.1.10.ipa](https://raw.githubusercontent.com/djzhao627/RouterApps/master/iOS/Shadowrocket-2.1.10.ipa)
+- [Shadowrocket-2.1.12.ipa](https://raw.githubusercontent.com/djzhao627/RouterApps/master/iOS/Shadowrocket-2.1.12.ipa)
 
 ### Android
 
-- [shadowsocks-android-4.6.5.apk](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Android/shadowsocks-android-4.6.5.apk)
+- [shadowsocks-android-3.4.0.8.apk](https://raw.githubusercontent.com/djzhao627/RouterApps/master/Android/shadowsocks-android-3.4.0.8.apk)
 
 ### Windows
 
